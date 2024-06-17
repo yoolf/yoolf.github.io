@@ -2,9 +2,9 @@ title: "삶은 감자"
 author: "전지후"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
-lang: "en"
+lang: "ko"
 excerpt_separator: "\n\n\n"
-date_format: "%Y %d, %B"
+date_format: "%Y.%B.%d"
 
 # Layout
 
