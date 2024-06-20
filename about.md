@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 제 이름은 전지후입니다.
