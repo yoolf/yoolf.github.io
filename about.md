@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: post
 ---
-
-## 자기 소개
 
 제 이름은 전지후입니다.
 
